@@ -134,4 +134,10 @@
 
 <p>Os dados utilizados neste projeto foram obtidos do Kaggle. Você pode encontrar o conjunto de dados em <a href="https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset" target="_blank">Customer Shopping Trends Dataset</a>.</p>
 
-<p>Este projeto foi desenvolvido como parte do curso de Análise de Dados ministrado por Toti. Os colaboradores neste projeto incluem <a href="https://www.github.com/sulasoft" target="_blank">David Sulbarán</a> e <a href="https://github.com/samilmoret" target="_blank">Samil Moret</a>. </p>
+<p>Este projeto foi desenvolvido como parte do curso de Análise de Dados ministrado por Toti. 
+
+<h2>Contribuidores ✨</h2>
+
+<a href="https://github.com/sulasoft/Projeto-final-da-Toti-Analise-de-Dados-Turma34/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sulasoft/Projeto-final-da-Toti-Analise-de-Dados-Turma34" />
+</a>
