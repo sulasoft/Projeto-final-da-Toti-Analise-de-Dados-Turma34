@@ -1,5 +1,4 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 from criar_db import main as criarDB
 from csv_to_db import main as csvSql
 from clean_data import main as cleanData
