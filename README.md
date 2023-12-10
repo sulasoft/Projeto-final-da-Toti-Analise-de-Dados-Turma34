@@ -113,13 +113,13 @@
 <h3>Conexão via ODBC:</h3>
 
 <ol>
-  <li><strong>Configure uma Fonte de Dados ODBC:</strong> Certifique-se de ter uma fonte de dados ODBC configurada para o seu banco de dados SQLite.</li>
+  <li><strong>Configure uma Fonte de Dados ODBC (ProjetoBI):</strong> Certifique-se de ter uma fonte de dados ODBC configurada com o nome "ProjetoBI" para o seu banco de dados SQLite.</li>
   
   <li><strong>Abra o Power BI:</strong> Inicie o Power BI Desktop.</li>
   
   <li><strong>Escolha 'Obter Dados':</strong> Na guia "Página Inicial", escolha a opção "Obter Dados" e selecione "Outros" para ver mais opções.</li>
   
-  <li><strong>Escolha 'ODBC':</strong> Selecione "ODBC" e escolha a fonte de dados ODBC configurada.</li>
+  <li><strong>Escolha 'ODBC':</strong> Selecione "ODBC" e escolha a fonte de dados ODBC configurada. (ProjetoBI)</li>
   
   <li><strong>Selecione Tabelas:</strong> Selecione as tabelas desejadas (clientes, items, compras) para importar no Power BI.</li>
 </ol>
