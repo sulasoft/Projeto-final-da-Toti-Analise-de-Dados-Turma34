@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/fQRGKG7/powebi-design1.jpg" alt="Power BI Design 1">
+<img src="https://i.ibb.co/fQRGKG7/powebi-design1.jpg" alt="Power BI Design 1" width = "600">
 
-<img src="https://scontent.fcaw6-1.fna.fbcdn.net/v/t39.30808-6/409567995_7197695866960168_8266774480308376513_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeHztXl9KUyuU2Q5EyD8IGCOCGONogHrsKcIY42iAeuwp-Hw1hmMbfW5EYc3_UkZ_-F03CIt0IMe3ox7MOKr8Z3d&_nc_ohc=h0bUP1lzsrkAX-M2lNJ&_nc_ht=scontent.fcaw6-1.fna&oh=00_AfBNMpW1OQJcDKxsAXA-RlFt7VC25XdU-N2qmLzzqpxRXQ&oe=657B3F91">
+<img width = "600" src="https://scontent.fcaw6-1.fna.fbcdn.net/v/t39.30808-6/409567995_7197695866960168_8266774480308376513_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeHztXl9KUyuU2Q5EyD8IGCOCGONogHrsKcIY42iAeuwp-Hw1hmMbfW5EYc3_UkZ_-F03CIt0IMe3ox7MOKr8Z3d&_nc_ohc=h0bUP1lzsrkAX-M2lNJ&_nc_ht=scontent.fcaw6-1.fna&oh=00_AfBNMpW1OQJcDKxsAXA-RlFt7VC25XdU-N2qmLzzqpxRXQ&oe=657B3F91">
 </p>
 
 <h2>Como Utilizar</h2>
