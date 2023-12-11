@@ -11,7 +11,7 @@
 </p>
 
 <h2>Como Utilizar</h2>
-<p>Certifique-se de ter o Python > 3.9 e todas as dependências instaladas antes de executar os scripts. Você pode instalá-las usando:</p>
+<p>Certifique-se de ter o Python >= 3.9 e todas as dependências instaladas antes de executar os scripts. Você pode instalá-las usando:</p>
 
 <pre>
 <code>pip install -r requirements.txt</code>
