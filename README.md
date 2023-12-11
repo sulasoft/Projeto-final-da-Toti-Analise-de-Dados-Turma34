@@ -1,7 +1,7 @@
 <h1 align="center">Conjunto de Dados de Preferências de Compras do Cliente 🛍️</h1>
 
 <p align="justify">
-  Este conjunto de dados, parte do projeto final do curso de Análise de Dados ministrado por Toti, oferece uma visão aprofundada do comportamento e padrões de compra dos consumidores. É essencial para as empresas adaptarem produtos, estratégias de marketing e melhorarem a experiência do cliente. Com 3900 registros, abrange informações-chave como idade, gênero, histórico de compras, métodos de pagamento preferidos, frequência de compras e mais. Ideal para iniciantes em Análise de Dados e Aprendizado de Máquina, este conjunto sintético fornece uma base sólida para a tomada de decisões baseada em dados e estratégias centradas no cliente.
+  Este conjunto de dados, parte do projeto final do curso de Análise de Dados ministrado por Toti, oferece uma visão aprofundada do comportamento e padrões de compra dos consumidores. É essencial para as empresas adaptarem produtos, estratégias de marketing e melhorarem a experiência do cliente. Com 3900 registros, abrange informações-chave como idade, gênero, histórico de compras, métodos de pagamento preferidos, frequência de compras e mais. Ideal para iniciantes em Análise de Dados, este conjunto sintético fornece uma base sólida para a tomada de decisões baseada em dados e estratégias centradas no cliente.
 </p>
 
 <p align="center">
